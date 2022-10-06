@@ -1,0 +1,24 @@
+2022-10-05 01:42:33,312 (program_1) INFO dictionary before sorting: {4: 2, 3: 'shiv', 2: 'raj', 1: 1.3}
+2022-10-05 01:42:33,313 (program_1) INFO dictionary sorting in ascending order: [(1, 1.3), (2, 'raj'), (3, 'shiv'), (4, 2)]
+2022-10-05 01:42:33,313 (program_1) INFO dictionary sorting in descending order: [(4, 2), (3, 'shiv'), (2, 'raj'), (1, 1.3)]
+2022-10-05 18:11:12,309 (program_2) INFO dictionary before adding new key: {1: 2, 2: 'shiv', 3: 'raj'}
+2022-10-05 18:11:17,158 (program_2) INFO dictionary after adding new key: {1: 2, 2: 'shiv', 3: 'raj', 4: '6i+7j'}
+2022-10-05 18:40:34,296 (program_3) INFO after concatenating dictionary: {1: 10, 2: 20}
+2022-10-05 18:40:43,197 (program_3) INFO after concatenating dictionary: {1: 10, 2: 20, 3: 30, 4: 40}
+2022-10-05 18:40:57,913 (program_3) INFO after concatenating dictionary: {1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60}
+2022-10-05 19:11:30,842 (program_4) INFO {'key': 'red', 'value': 1}
+2022-10-05 19:11:34,241 (program_4) INFO {'key': 'blue', 'value': 10}
+2022-10-05 19:11:36,333 (program_4) INFO {'key': 2, 'value': 20}
+2022-10-05 19:47:24,801 (program_5) INFO Dictionary:{1: 1, 2: 4, 3: 9, 4: 16, 5: 25}
+2022-10-05 19:54:44,917 (program_6) INFO poped key is 1 and final dictionary is {2: 4, 3: 9, 4: 16, 5: 25}
+2022-10-05 20:24:45,969 (program_7) INFO Original list: [{'V': 'S001'}, {'V': 'S002'}, {'VI': 'S001'}, {'VI': 'S005'}, {'VII': 'S005'}, {'V': 'S009'}, {'VIII': 'S007'}]
+2022-10-05 20:24:45,972 (program_7) INFO unique value in dictionary: {'S005', 'S002', 'S001', 'S009', 'S007'}
+2022-10-05 20:45:01,127 (program_7) INFO unique value in dictionary: {'s': 1, 'h': 2, 'i': 2, 'v': 1, 'a': 3, 'r': 2, 'j': 1, '1': 1, '2': 1, '3': 1}
+2022-10-05 21:58:48,988 (program_9) INFO NAME       AGE        COURSE    
+2022-10-05 21:58:48,989 (program_9) INFO Samuel     21         Data Structures
+2022-10-05 21:58:48,990 (program_9) INFO Richie     20         Machine Learning
+2022-10-05 21:58:48,990 (program_9) INFO Lauren     21         OOPS with java
+2022-10-05 21:58:54,251 (program_10) INFO 2 no of dictionaries have success as True
+2022-10-06 11:44:57,024 (program_11) INFO final dictionary is {1: {2: {3: {4: {}}}}}
+2022-10-06 12:04:50,023 (program_12) INFO multiple keys are exists in a dictionary
+2022-10-06 12:40:24,459 (program_13) INFO 14 number of items in a dictionary value that is a list
