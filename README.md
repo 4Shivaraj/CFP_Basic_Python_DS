@@ -53,67 +53,98 @@
 
 15. Write a python program to access environment variables.
 
-
-				Python Data Structure
+        		Python Data Structure
                         	    Array
 
-1. Write a Python program to create an array of 5 integers and display the array items.
+16. Write a Python program to create an array of 5 integers and display the array items.
     Access individual element through indexes.
 
-2. Write a Python program to reverse the order of the items in the array.
+17. Write a Python program to reverse the order of the items in the array.
 
-3. Write a Python program to get the number of occurrences of a specified element in an
+18. Write a Python program to get the number of occurrences of a specified element in an
     array.
 
-4. Write a Python program to remove the first occurrence of a specified element from an
+19. Write a Python program to remove the first occurrence of a specified element from an
     array.
 
+        			Dictionary
 
-					Dictionary
+20. Write a Python script to sort (ascending and descending) a dictionary by value.
 
-1.	Write a Python script to sort (ascending and descending) a dictionary by value.
+21.     Write a Python script to add a key to a dictionary.
 
-2. 	Write a Python script to add a key to a dictionary.
-	Sample Dictionary : {0: 10, 1: 20}
-	Expected Result : {0: 10, 1: 20, 2: 30}
+    Sample Dictionary : {0: 10, 1: 20}
+    Expected Result : {0: 10, 1: 20, 2: 30}
 
-3. 	Write a Python script to concatenate following dictionaries to create a new one.
-	Sample Dictionary :
-	dic1={1:10, 2:20}
-	dic2={3:30, 4:40}
-	dic3={5:50,6:60}
-	Expected Result : {1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60}
+22.     Write a Python script to concatenate following dictionaries to create a new one.
 
-4. 	Write a Python program to iterate over dictionaries using for loops.
+    Sample Dictionary :
+    dic1={1:10, 2:20}
+    dic2={3:30, 4:40}
+    dic3={5:50,6:60}
+    Expected Result : {1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60}
 
-5. 	Write a Python script to generate and print a dictionary that contains a
-	number (between 1 and n) in the form (x, x*x).
-	Sample Dictionary ( n = 5) :
-	Expected Output : {1: 1, 2: 4, 3: 9, 4: 16, 5: 25}
+23.     Write a Python program to iterate over dictionaries using for loops.
 
-6. 	Write a Python program to remove a key from a dictionary.
+24.     Write a Python script to generate and print a dictionary that contains a
 
-7. 	Write a Python program to print all unique values in a dictionary.
-	Sample Data : [{"V":"S001"}, {"V": "S002"}, {"VI": "S001"}, {"VI": "S005"},
-	{"VII":"S005"}, {"V":"S009"},{"VIII":"S007"}]
-	Expected Output : Unique Values: {'S005', 'S002', 'S007', 'S001', 'S009'}
+    number (between 1 and n) in the form (x, x\*x).
+    Sample Dictionary ( n = 5) :
+    Expected Output : {1: 1, 2: 4, 3: 9, 4: 16, 5: 25}
 
-8. 	Write a Python program to create a dictionary from a string.
-	Note: Track the count of the letters from the string.
-	Sample string : 'w3resource'
-	Expected output: {'3': 1, 's': 1, 'r': 2, 'u': 1, 'w': 1, 'c': 1, 'e': 2, 'o': 1}
+25.     Write a Python program to remove a key from a dictionary.
 
-9. 	Write a Python program to print a dictionary in table format.
+26.     Write a Python program to print all unique values in a dictionary.
 
-10. 	Write a Python program to count the values associated with key in a
-	dictionary.
-	Sample data: = [{'id': 1, 'success': True, 'name': 'Lary'}, {'id': 2, 'success':
-	False, 'name': 'Rabi'}, {'id': 3, 'success': True, 'name': 'Alex'}]
-	Expected result: Count of how many dictionaries have success as True
+    Sample Data : [{"V":"S001"}, {"V": "S002"}, {"VI": "S001"}, {"VI": "S005"},
+    {"VII":"S005"}, {"V":"S009"},{"VIII":"S007"}]
+    Expected Output : Unique Values: {'S005', 'S002', 'S007', 'S001', 'S009'}
 
-11. 	Write a Python program to convert a list into a nested dictionary of keys.
+27.     Write a Python program to create a dictionary from a string.
 
-12. 	Write a Python program to check multiple keys exists in a dictionary.
+    Note: Track the count of the letters from the string.
+    Sample string : 'w3resource'
+    Expected output: {'3': 1, 's': 1, 'r': 2, 'u': 1, 'w': 1, 'c': 1, 'e': 2, 'o': 1}
 
-13. 	Write a Python program to count number of items in a dictionary value
-	that is a list.
+28.     Write a Python program to print a dictionary in table format.
+
+29.     Write a Python program to count the values associated with key in a
+
+    dictionary.
+    Sample data: = [{'id': 1, 'success': True, 'name': 'Lary'}, {'id': 2, 'success':
+    False, 'name': 'Rabi'}, {'id': 3, 'success': True, 'name': 'Alex'}]
+    Expected result: Count of how many dictionaries have success as True
+
+30.     Write a Python program to convert a list into a nested dictionary of keys.
+
+31.     Write a Python program to check multiple keys exists in a dictionary.
+
+32.     Write a Python program to count number of items in a dictionary value
+
+    that is a list.
+
+                                Sets
+
+33. Write a Python program to create a set.
+
+34. Write a Python program to iteration over sets.
+
+35. Write a Python program to add member(s) in a set.
+
+36. Write a Python program to remove item(s) from set
+
+37. Write a Python program to remove an item from a set if it is present in the set.
+
+38. Write a Python program to create an intersection of sets.
+
+39. Write a Python program to create a union of sets.
+
+40. Write a Python program to create set difference.
+
+41. Write a Python program to create a symmetric difference.
+
+42. Write a Python program to clear a set.
+
+43. Write a Python program to use of frozensets.
+
+44. Write a Python program to find maximum and the minimum value in a set.
