@@ -1,0 +1,68 @@
+2022-10-07 17:45:09,509 (program_1) INFO sum of all items in a list: 15
+2022-10-07 17:46:10,313 (program_2) INFO multiplication value of all items in a list: 120
+2022-10-07 17:46:36,543 (program_3) INFO original list: [5, 8, 3, 1, 4]
+2022-10-07 17:46:36,545 (program_3) INFO after soting list: [1, 3, 4, 5, 8]
+2022-10-07 17:46:36,547 (program_3) INFO minimum number in a list: 1
+2022-10-07 17:48:14,289 (program_4) INFO original list: ['1221', 'shiv', 'raj', 'lola', 'pradeep']
+2022-10-07 17:48:14,291 (program_4) INFO The 2 number of strings are matched, where string length is greater than 1 and first and last charater are same.
+2022-10-07 17:49:17,203 (program_5) INFO original list: [(2, 5), (1, 2), (4, 4), (2, 3), (2, 1)]
+2022-10-07 17:49:17,205 (program_5) INFO final list after sorting in ascending order: [(2, 1), (1, 2), (2, 3), (4, 4), (2, 5)] 
+2022-10-07 17:50:37,689 (program_6) INFO original list: [10, 20, 30, 20, 10, 50, 60, 40, 80, 50, 40]
+2022-10-07 17:50:37,691 (program_6) INFO final list after removing dupliactes: [10, 20, 30, 50, 60, 40, 80]
+2022-10-07 17:51:08,371 (program_7) INFO original list: [10, 20, 30, 20, 10, 50, 60, 40, 80, 50, 40]
+2022-10-07 17:51:08,373 (program_7) INFO Final list after copying: [10, 20, 30, 20, 10, 50, 60, 40, 80, 50, 40]
+2022-10-07 17:51:32,605 (program_8) INFO the words greater than given numbers are: ['KodeKloud', 'Build', 'Successful', 'DevOps', 'Career']
+2022-10-07 17:52:01,430 (program_9) INFO list1: [10, 20, 30, 40, 50, 60]
+2022-10-07 17:52:01,432 (program_9) INFO list2: [15, 20, 35, 45]
+2022-10-07 17:52:01,433 (program_9) INFO True the list has one common member: 20.
+2022-10-07 17:52:22,646 (program_10) INFO original list: ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
+2022-10-07 17:52:22,647 (program_10) INFO list after removing 0, 4th and 5th index: ['Green', 'White', 'Black']
+2022-10-07 17:52:44,510 (program_11) INFO original list: [1, 2, 3]
+2022-10-07 17:52:44,512 (program_11) INFO list after permuations: [(1, 2, 3), (1, 3, 2), (2, 1, 3), (2, 3, 1), (3, 1, 2), (3, 2, 1)]
+2022-10-07 17:55:55,879 (program_12) INFO The difference between the two lists are: [2, 4, 6, 9, 7]
+2022-10-07 17:58:01,102 (program_13) INFO After appending the list: [1, 3, 5, 7, 9, 'shiv', 'raj', 'raksh']
+2022-10-07 17:58:26,834 (program_14) INFO Compare list1 and list2: 
+2022-10-07 17:58:26,836 (program_14) INFO True
+2022-10-07 17:58:26,837 (program_14) INFO Compare list1 and list3: 
+2022-10-07 17:58:26,839 (program_14) INFO False
+2022-10-07 17:59:03,693 (program_15) INFO common item from the pair of list are: {2, 5, 134}
+2022-10-07 18:00:10,922 (program_16) INFO letter: a
+2022-10-07 18:00:10,924 (program_16) INFO ask
+2022-10-07 18:00:10,925 (program_16) INFO letter: b
+2022-10-07 18:00:10,926 (program_16) INFO be
+2022-10-07 18:00:10,927 (program_16) INFO letter: c
+2022-10-07 18:00:10,928 (program_16) INFO call
+2022-10-07 18:00:10,930 (program_16) INFO come
+2022-10-07 18:00:10,931 (program_16) INFO letter: d
+2022-10-07 18:00:10,932 (program_16) INFO do
+2022-10-07 18:00:10,934 (program_16) INFO letter: f
+2022-10-07 18:00:10,935 (program_16) INFO feel
+2022-10-07 18:00:10,936 (program_16) INFO find
+2022-10-07 18:00:10,937 (program_16) INFO letter: g
+2022-10-07 18:00:10,938 (program_16) INFO get
+2022-10-07 18:00:10,940 (program_16) INFO give
+2022-10-07 18:00:10,941 (program_16) INFO go
+2022-10-07 18:00:10,942 (program_16) INFO letter: h
+2022-10-07 18:00:10,943 (program_16) INFO have
+2022-10-07 18:00:10,944 (program_16) INFO letter: k
+2022-10-07 18:00:10,945 (program_16) INFO know
+2022-10-07 18:00:10,947 (program_16) INFO letter: l
+2022-10-07 18:00:10,948 (program_16) INFO leave
+2022-10-07 18:00:10,950 (program_16) INFO look
+2022-10-07 18:00:10,951 (program_16) INFO letter: m
+2022-10-07 18:00:10,952 (program_16) INFO make
+2022-10-07 18:00:10,953 (program_16) INFO letter: s
+2022-10-07 18:00:10,955 (program_16) INFO say
+2022-10-07 18:00:10,956 (program_16) INFO see
+2022-10-07 18:00:10,957 (program_16) INFO seem
+2022-10-07 18:00:10,959 (program_16) INFO letter: t
+2022-10-07 18:00:10,960 (program_16) INFO take
+2022-10-07 18:00:10,961 (program_16) INFO tell
+2022-10-07 18:00:10,963 (program_16) INFO think
+2022-10-07 18:00:10,965 (program_16) INFO letter: u
+2022-10-07 18:00:10,966 (program_16) INFO use
+2022-10-07 18:00:10,967 (program_16) INFO letter: w
+2022-10-07 18:00:10,968 (program_16) INFO want
+2022-10-07 18:00:10,969 (program_16) INFO work
+2022-10-07 18:00:15,819 (program_17) INFO original list: [[10, 20], [40], [30, 56, 25], [10, 20], [33], [40]]
+2022-10-07 18:00:15,820 (program_17) INFO new list after removing duplicates: [[10, 20], [30, 56, 25], [33], [40]]
