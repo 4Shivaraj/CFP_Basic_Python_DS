@@ -1,0 +1,20 @@
+2022-10-07 23:38:14,625 (program_1) INFO length of string:8
+2022-10-07 23:38:19,058 (program_2) INFO count of string:{'s': 1, 'h': 1, 'i': 1, 'v': 1, 'a': 3, 'r': 1, 'j': 1, 'g': 1, 'o': 1, 'w': 1, 'd': 1}
+2022-10-07 23:38:23,756 (program_3) INFO changing second occurrances of 'r' :resta$t
+2022-10-07 23:38:48,254 (program_4) INFO after adding 'ing' or 'ly' :abcstring
+2022-10-07 23:39:21,396 (program_4) INFO after adding 'ing' or 'ly' :stringly
+2022-10-07 23:39:26,337 (program_5) INFO length of longest string :10
+2022-10-07 23:39:58,430 (program_6) INFO upper case :SHIVARAJ, lower case :shivaraj
+2022-10-07 23:40:04,786 (program_7) INFO unique word after sorting :['black', 'green', 'red', 'white']
+2022-10-07 23:40:22,740 (program_8) INFO getting part of string before '/' :https://www.w3resource.com
+2022-10-07 23:40:22,741 (program_8) INFO getting part of string before '-' :https://www.w3resource.com/python
+2022-10-07 23:40:28,845 (program_9) INFO displaying formated text :Python is a widely used high-level, general-
+purpose, interpreted,                     dynamic
+programming language. Its design philosophy
+emphasizes                     code readability,
+and its syntax allows programmers to express
+concepts in fewer lines of code than possible in
+languages such                     as C++ or Java.
+2022-10-07 23:40:34,473 (program_10) INFO text :This channel is focused on creating tutorials for frontend and for backend developers and count of sub-string 'for': 2 
+2022-10-07 23:40:42,812 (program_11) INFO text :Shivaraj and reverse of string: jaravihS 
+2022-10-07 23:40:51,113 (program_12) INFO lower case of n string :shivARAJ 
