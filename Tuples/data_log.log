@@ -1,0 +1,20 @@
+2022-10-07 19:30:39,776 (program_1) INFO type of data:<class 'tuple'> and data: (1, 2, 3, 4, 5)
+2022-10-07 19:33:58,287 (program_2) INFO type of data:<class 'tuple'> and data: (1, 2.0, 'shiv', True, (2+5j))
+2022-10-07 19:39:46,211 (program_3) INFO sum of unpacked value: 6
+2022-10-07 19:56:46,488 (program_4) INFO original tuples: ('HELLO', 5, [], True)
+2022-10-07 19:56:46,489 (program_4) INFO tuple_colon: ('HELLO', 5, [50], True) and my_tuple: ('HELLO', 5, [], True)
+2022-10-07 20:02:35,632 (program_5) INFO original tuples: (2, 7, 5, 6, 2, 3, 7, 6, 7)
+2022-10-07 20:02:35,632 (program_5) INFO num 7 is repeated 3 no of times
+2022-10-07 20:05:41,944 (program_6) INFO True shiv value is avaialable in tuple
+2022-10-07 20:05:41,945 (program_6) INFO True 2+5j value is avaialable in tuple
+2022-10-07 20:05:41,948 (program_6) INFO num 7 is repeated 0 nos of times
+2022-10-07 20:10:05,512 (program_7) INFO type of my_tuple: <class 'tuple'> and data: (1, 2.0, 'shiv', True, (2+5j))
+2022-10-07 20:16:11,504 (program_8) INFO original tuple: (1, 2.0, 'shiv', True, (2+5j))
+2022-10-07 20:16:11,505 (program_8) INFO after removing an item: (1, 'shiv', True, (2+5j))
+2022-10-07 20:26:56,606 (program_9) INFO original tuple: (1, 2.0, 'shiv', True, (2+5j))
+2022-10-07 20:26:56,606 (program_9) INFO reverse order: ((2+5j), True, 'shiv', 2.0, 1)
+2022-10-07 20:26:56,606 (program_9) INFO slice from 0 to 3 :(1, 2.0, 'shiv')
+2022-10-07 20:26:56,607 (program_9) INFO accessing last value:(2+5j)
+2022-10-07 20:26:56,607 (program_9) INFO accessing all the values with the step of 2:(1, 'shiv', (2+5j))
+2022-10-07 20:30:45,236 (program_10) INFO original tuple: (1, 2.0, 'shiv', True, (2+5j))
+2022-10-07 20:30:45,237 (program_10) INFO reverse order: ((2+5j), True, 'shiv', 2.0, 1)
