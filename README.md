@@ -53,7 +53,7 @@
 
 15. Write a python program to access environment variables.
 
-        		Python Data Structure
+        			Python Data Structure
                         	    Array
 
 16. Write a Python program to create an array of 5 integers and display the array items.
@@ -67,7 +67,7 @@
 19. Write a Python program to remove the first occurrence of a specified element from an
     array.
 
-        			Dictionary
+        				Dictionary
 
 20. Write a Python script to sort (ascending and descending) a dictionary by value.
 
@@ -148,3 +148,75 @@
 43. Write a Python program to use of frozensets.
 
 44. Write a Python program to find maximum and the minimum value in a set.
+
+					List
+
+45. 	Write a Python program to sum all the items in a list.
+
+46. 	Write a Python program to multiplies all the items in a list.
+
+47. 	Write a Python program to get the smallest number from a list.
+
+48. 	Write a Python program to count the number of strings where the string length
+	is 2 or more and the first and last character are same from a given list of strings.
+	Sample List : ['abc', 'xyz', 'aba', '1221']
+	Expected Result : 2
+
+49. 	Write a Python program to get a list, sorted in increasing order by the last
+	element in each tuple from a given list of non-empty tuples.
+	Sample List : [(2, 5), (1, 2), (4, 4), (2, 3), (2, 1)]
+	Expected Result : [(2, 1), (1, 2), (2, 3), (4, 4), (2, 5)]
+
+50. 	Write a Python program to remove duplicates from a list.
+
+51. 	Write a Python program to clone or copy a list.
+
+52. 	Write a Python program to find the list of words that are longer than n from a
+	given list of words.
+
+53. 	Write a Python function that takes two lists and returns True if they have at
+	least one common member.\
+
+54. 	Write a Python program to print a specified list after removing the 0th, 4th and
+	5th elements.
+	Sample List : ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
+	Expected Output : ['Green', 'White', 'Black']
+
+55. 	Write a Python program to generate all permutations of a list in Python.
+
+56. 	Write a Python program to get the difference between the two lists.
+
+57. 	Write a Python program to append a list to the second list.
+
+58. 	Write a python program to check whether two lists are circularly identical.
+
+59. 	Write a Python program to find common items from two lists.
+
+60. 	Write a Python program to split a list based on first character of word.
+
+61. 	Write a Python program to remove duplicates from a list of lists.
+	Sample list : [[10, 20], [40], [30, 56, 25], [10, 20], [33], [40]]
+	New List : [[10, 20], [30, 56, 25], [33], [40]]
+
+				Tuple
+
+62.  Write a Python program to create a tuple.
+
+63.  Write a Python program to create a tuple with different data types.
+
+64.  Write a Python program to unpack a tuple in several variables.
+
+65.  Write a Python program to create the colon of a tuple.
+
+66.  Write a Python program to find the repeated items of a tuple.
+
+67.  Write a Python program to check whether an element exists within a tuple.
+
+68.  Write a Python program to convert a list to a tuple.
+
+69.  Write a Python program to remove an item from a tuple.
+
+70.  Write a Python program to slice a tuple.
+
+71. Write a Python program to reverse a tuple.
+
